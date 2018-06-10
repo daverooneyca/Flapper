@@ -1,4 +1,4 @@
-# Flapper
+# The Flapper Dog Distractor!
 ### A Raspberry Pi controlled tool to help deal with crazy dogs!
 
 ## Background
